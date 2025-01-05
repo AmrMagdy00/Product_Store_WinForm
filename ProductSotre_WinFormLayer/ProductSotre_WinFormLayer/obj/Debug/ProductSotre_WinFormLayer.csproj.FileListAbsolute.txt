@@ -1,0 +1,10 @@
+C:\Users\3el3a\source\repos\Product_Control\ProductSotre\ProductSotre_WinFormLayer\ProductSotre_WinFormLayer\bin\Debug\ProductSotre_WinFormLayer.exe.config
+C:\Users\3el3a\source\repos\Product_Control\ProductSotre\ProductSotre_WinFormLayer\ProductSotre_WinFormLayer\bin\Debug\ProductSotre_WinFormLayer.exe
+C:\Users\3el3a\source\repos\Product_Control\ProductSotre\ProductSotre_WinFormLayer\ProductSotre_WinFormLayer\bin\Debug\ProductSotre_WinFormLayer.pdb
+C:\Users\3el3a\source\repos\Product_Control\ProductSotre\ProductSotre_WinFormLayer\ProductSotre_WinFormLayer\obj\Debug\ProductSotre_WinFormLayer.csproj.AssemblyReference.cache
+C:\Users\3el3a\source\repos\Product_Control\ProductSotre\ProductSotre_WinFormLayer\ProductSotre_WinFormLayer\obj\Debug\ProductSotre_WinFormLayer.Form1.resources
+C:\Users\3el3a\source\repos\Product_Control\ProductSotre\ProductSotre_WinFormLayer\ProductSotre_WinFormLayer\obj\Debug\ProductSotre_WinFormLayer.Properties.Resources.resources
+C:\Users\3el3a\source\repos\Product_Control\ProductSotre\ProductSotre_WinFormLayer\ProductSotre_WinFormLayer\obj\Debug\ProductSotre_WinFormLayer.csproj.GenerateResource.cache
+C:\Users\3el3a\source\repos\Product_Control\ProductSotre\ProductSotre_WinFormLayer\ProductSotre_WinFormLayer\obj\Debug\ProductSotre_WinFormLayer.csproj.CoreCompileInputs.cache
+C:\Users\3el3a\source\repos\Product_Control\ProductSotre\ProductSotre_WinFormLayer\ProductSotre_WinFormLayer\obj\Debug\ProductSotre_WinFormLayer.exe
+C:\Users\3el3a\source\repos\Product_Control\ProductSotre\ProductSotre_WinFormLayer\ProductSotre_WinFormLayer\obj\Debug\ProductSotre_WinFormLayer.pdb
